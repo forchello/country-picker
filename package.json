@@ -1,7 +1,8 @@
 {
-  "name": "@forchello/country-picker",
+  "name": "country-picker",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/forchello"
+    "forchello:registry": "https://npm.pkg.github.com/",
+    "access": "public"
   },
   "version": "0.0.1",
   "description": "",
